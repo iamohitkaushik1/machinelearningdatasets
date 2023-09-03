@@ -1,0 +1,14 @@
+House size,Number of bedrooms,Number of bathrooms,Lot size,Location,School district,Crime rate,Nearest amenities,Year built,Renovations,Condition,Price
+2388,3,1,0.7321377137565974,New York,Good,4,Close to schools,2003,0,Poor,1068
+2029,3,2,0.9361397761819649,New York,Good,6,Close to schools,1990,1,Fair,3849
+1491,2,1,0.465364245273273,Chicago,Good,9,Close to schools,2015,1,Poor,4734
+1656,2,1,0.8271624183719759,New York,Bad,1,Far from schools,2013,1,Poor,1356
+1209,2,1,0.39538335687832427,New York,Excellent,5,Far from schools,1995,0,Poor,2079
+1949,3,2,0.5502029134387729,Chicago,Bad,1,Far from schools,1990,0,Poor,2946
+1920,2,1,0.40382822666114626,San Antonio,Excellent,3,Far from schools,1985,1,Poor,2424
+2271,3,2,0.5776787970712703,Chicago,Bad,1,Far from schools,2013,0,Fair,4719
+1586,2,2,0.4197705047927359,New York,Good,8,Far from schools,1985,1,Poor,1220
+1448,3,1,0.8369001955369307,San Antonio,Excellent,1,Far from schools,2015,1,Poor,1578
+274,1,2,0.03274379839670578,San Antonio,Good,6,Close to schools,1989,1,Good,14802
+325,1,2,0.07207093973369261,Los Angeles,Bad,4,Far from schools,2013,1,Fair,10871
+682,1,1,0.06044643658339686,Los Angeles,Good,7,Far from schools,1995,0,Good,17538
