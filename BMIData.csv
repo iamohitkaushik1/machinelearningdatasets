@@ -1,0 +1,11 @@
+,Name,Height,Weight,Healthy,BMI,BMI category
+0,John,150,40,False,17.77777777777778,underweight
+1,Jane,160,50,True,19.531249999999996,normal weight
+2,Peter,170,60,True,20.761245674740486,normal weight
+3,Mary,180,70,True,21.604938271604937,normal weight
+4,David,190,80,True,22.1606648199446,normal weight
+5,Elizabeth,200,90,True,22.5,normal weight
+6,Michael,155,100,False,41.62330905306971,obese class III
+7,Sarah,165,110,False,40.40404040404041,obese class III
+8,Thomas,175,120,False,39.183673469387756,obese class II
+9,Jessica,185,130,False,37.983929875821765,obese class II
